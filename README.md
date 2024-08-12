@@ -1,1 +1,1 @@
-# Transformer-chinamma
+# Transformer model for the Japanese Pollution dataset
